@@ -3,13 +3,9 @@
 
 Perkenalkan nama saya **Windy Bintan Saputra**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Pelajar** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/windy-bintan-saputra-046025300/) ku ya.
 
 <p align="left">
 <a href="https://github.com/penuliscode">

@@ -1,5 +1,4 @@
-# NiceWinn221
-# Halo semua! 
+C=    O
 
 Perkenalkan nama saya **Windy Bintan Saputra**.<br>
 

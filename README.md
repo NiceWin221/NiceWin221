@@ -21,9 +21,11 @@ Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about m
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NiceWin221&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/nicewin221)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiceWin221&theme=dark&hide_border=false)](https://github.com/nicewin221)<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/nicewin221)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NiceWin221&theme=radical&no-frame=false&no-bg=false&margin-w=4)

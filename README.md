@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about my journey and learning in tech<br>🧑‍🎓 Studied FE/BE at Dicoding Bootcamp Batch 3<br>💭 Currently learning about NodeJS
+Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about my journey and learning in tech<br>🧑‍🎓 Studied FE/BE at Dicoding Bootcamp Batch 3<br>💭 Currently learning about NodeJS and PHP
 
 
 # 💻 Tech Stack:

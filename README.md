@@ -22,7 +22,6 @@ Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about m
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/nicewin221)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiceWin221&theme=dark&hide_border=false)](https://github.com/nicewin221)<br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/nicewin221)

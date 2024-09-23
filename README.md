@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about my journey and learning in tech<br>🧑‍🎓 Studied FE/BE at Dicoding Bootcamp Batch 3<br>💭 Currently learning about NodeJS and PHP
 
-
 # 💻 Tech Stack:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 

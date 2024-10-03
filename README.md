@@ -20,6 +20,10 @@ Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about m
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/nicewin221)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiceWin221&theme=dark&hide_border=false)](https://github.com/nicewin221)<br/>

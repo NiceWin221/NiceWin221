@@ -27,6 +27,8 @@ Hi Im Windy Bintan Saputra<br><br>👨‍💻 Fullstack Developer sharig about m
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Neon](https://img.shields.io/badge/neon-%2300E599.svg?style=for-the-badge&logo=neon&logoColor=white)](https://neon.tech/)
+[![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Cypress](https://img.shields.io/badge/cypress-%2300B5B5.svg?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiceWin221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/nicewin221)<br/>
